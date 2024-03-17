@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/PM2E2GRUPO1ASPCOREapi/apis/PM2E2GRUPO1ASPCORE",
+      "type": "apis.azure"
+    }
+  }
+}
